@@ -67,7 +67,7 @@ cite,
 em,
 i,
 blockquote { font-style: italic; }
-blockquote { border: 2px solid #4287f5; font-style: italic; padding: 35px 30px; }
+blockquote { border: 2px solid #0b966c; font-style: italic; padding: 35px 30px; }
 blockquote:before,
 blockquote:after,
 q:before,
@@ -282,7 +282,7 @@ h4 a:hover,
 h5 a:hover,
 h6 a:hover { text-decoration: none }
 
-.text-accent-color { color: #4287f5 !important; }
+.text-accent-color { color: #0b966c !important; }
 .text-white { color: #fff !important; }
 .text-grey { color: #ccc !important; }
 .text-heading-color { color: #4b4b4b !important; }
@@ -954,7 +954,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 .widget.widget_instagram .instagram-wrap .instagram_badge_image a:after,
 .widget.widget_flickr .flickr-wrap .flickr_badge_image a:after { content: ""; position: absolute; left: 0; top: 0; width: 100%; height: 100%; background-color: transparent; -webkit-transition: all ease .238s; -moz-transition: all ease .238s; transition: all ease .238s; }
 .widget.widget_instagram .instagram-wrap .instagram_badge_image a:hover:after,
-.widget.widget_flickr .flickr-wrap .flickr_badge_image a:hover:after { background: #4287f5 url(assets/img/icon-plus.png) no-repeat center center; }
+.widget.widget_flickr .flickr-wrap .flickr_badge_image a:hover:after { background: #0b966c url(assets/img/icon-plus.png) no-repeat center center; }
 /* 2 columns */
 .widget.widget_instagram .instagram-wrap.col2 .instagram_badge_image,
 .widget.widget_flickr .flickr-wrap.col2 .flickr_badge_image { width: 50%; }

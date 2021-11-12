@@ -200,7 +200,7 @@
 
 /* Outline */
 .wprt-icon-box.outline .icon-wrap { margin-bottom: 25px; }
-.wprt-icon-box.outline .dd-icon { box-shadow: inset 0 0 0 2px #4287f5; }
+.wprt-icon-box.outline .dd-icon { box-shadow: inset 0 0 0 2px #0b966c; }
 
 .wprt-icon-box.outline .dd-icon:after {
     background-color: #4287f5
@@ -307,7 +307,7 @@
 
 /* Accent background */
 .wprt-icon-box.accent-background .icon-wrap { margin-bottom: 25px; }
-.wprt-icon-box.accent-background .dd-icon { box-shadow: inset 0 0 0 2px #4287f5;  color: #fff; }
+.wprt-icon-box.accent-background .dd-icon { box-shadow: inset 0 0 0 2px #0b966c;  color: #fff; }
 .wprt-icon-box.accent-background:hover .dd-icon { color: #4287f5 }
 
 /* Accent background Effect 3 */
@@ -463,7 +463,7 @@
 
 /* Outline */
 .wprt-icon-box.icon-left.outline .dd-icon {
-    box-shadow: inset 0 0 0 2px #4287f5;
+    box-shadow: inset 0 0 0 2px #0b966c;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -480,7 +480,7 @@
 .wprt-icon-box.icon-left.accent-background:hover .dd-icon { color: #4287f5 }
 
 .wprt-icon-box.icon-left.accent-background .dd-icon {
-    box-shadow: inset 0 0 0 2px #4287f5;
+    box-shadow: inset 0 0 0 2px #0b966c;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -531,7 +531,7 @@
 
 /* Outline */
 .wprt-icon-box.icon-right.outline .dd-icon {
-    box-shadow: inset 0 0 0 2px #4287f5;
+    box-shadow: inset 0 0 0 2px #0b966c;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -548,7 +548,7 @@
 .wprt-icon-box.icon-right.accent-background:hover .dd-icon { color: #4287f5 }
 
 .wprt-icon-box.icon-right.accent-background .dd-icon {
-    box-shadow: inset 0 0 0 2px #4287f5;
+    box-shadow: inset 0 0 0 2px #0b966c;
     display: inline-block;
     width: 70px;
     height: 70px;
@@ -628,7 +628,7 @@
     display: inline-block;
     padding: 0.65em 2.5em;
     background-color: #4287f5
-    border: 2px solid #4287f5;
+    border: 2px solid #0b966c;
     color: #fff;
     -webkit-transition: all ease .238s;
        -moz-transition: all ease .238s;
@@ -1028,7 +1028,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    border: 2px solid #4287f5;
+    border: 2px solid #0b966c;
 }
 
 .wprt-galleries.galleries #wprt-slider .slides li,
@@ -1752,8 +1752,8 @@
 
 /* Oscar */
 .project-item .effect-oscar {
-    background: -webkit-linear-gradient(45deg, #fff 0%, #4287f5 45%, #4287f5 55%, #fff 100%);
-    background: linear-gradient(45deg, #fff 0%,#4287f5 45%, #4287f5 55%, #fff 100%);
+    background: -webkit-linear-gradient(45deg, #fff 0%, #0b966c 45%, #0b966c 55%, #fff 100%);
+    background: linear-gradient(45deg, #fff 0%,#0b966c 45%, #0b966c 55%, #fff 100%);
 }
 
 .project-item .effect-oscar img {
@@ -1929,7 +1929,7 @@
 .bullet-style-2 #team-wrap .cbp-nav-pagination-item,
 .bullet-style-2 #images-wrap .cbp-nav-pagination-item {
     background-color: transparent;
-    border: 1px solid #4287f5;
+    border: 1px solid #0b966c;
     border-radius: 0;
     margin: 0 5px;
 }
@@ -2096,7 +2096,7 @@
 .wprt-galleries-grid.arrow-style-2 #images-wrap .cbp-nav-next:before,
 .wprt-galleries-grid.arrow-style-2 #images-wrap .cbp-nav-prev:before {
     background-color: transparent;
-    border: 2px solid #4287f5;
+    border: 2px solid #0b966c;
 }
 
 .wprt-project.arrow-style-2 #projects .cbp-nav-next:after,
