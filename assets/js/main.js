@@ -889,7 +889,7 @@
                                             'class': 'bwp-alert ' + cls,
                                             'text' : result
                                         }).append(
-                                            $('<a class="remove" href="#"><i class="fa fa-close"></i></a>')
+                                            $('<a class="remove"#"><i class="fa fa-close"></i></a>')
                                         )
                                     );
 
